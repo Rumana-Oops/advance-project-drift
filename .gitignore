@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Medical imaging datasets
+data/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Environment variables and secrets
+.env
+
+# TensorBoard training outputs
+runs/
+

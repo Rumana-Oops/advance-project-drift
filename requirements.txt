@@ -1,1 +1,11 @@
 
+numpy
+pandas
+matplotlib
+scikit-learn
+nibabel
+SimpleITK
+monai
+torch
+torchvision
+tensorboard
